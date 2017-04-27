@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HomeWork</string>
+    <string name="fullname">Full name</string>
+    <string name="john_smith">John Smith</string>
+    <string name="sarah_jonson">Sarah Jonson</string>
+    <string name="m">M</string>
+    <string name="f">F</string>
+</resources>
